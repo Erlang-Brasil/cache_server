@@ -37,7 +37,7 @@ cache_server_app
 
 ```bash
 # Clone o repositório
-git clone <repository-url>
+git clone https://github.com/Erlang-Brasil/cache_server
 cd cache_server
 
 # Compilar o projeto
