@@ -9,4 +9,6 @@ REL_DEPS += relx
 
 DEP_PLUGINS = cowboy
 
+LOCAL_DEPS = mnesia
+
 include erlang.mk

@@ -1,4 +1,4 @@
--module(get_handler).
+-module(cache_server_get_handler).
 -behavior(cowboy_handler).
 
 -export([init/2]).
